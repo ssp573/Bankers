@@ -10,5 +10,4 @@ run:
 
 java Banker <filename>
   
-(Note that the file must be in the current working directory. If not, give full
-path.)
+(Note that the file must be in the current working directory. If not, give full path. Use the instructions in bankers.pdf for the input)
